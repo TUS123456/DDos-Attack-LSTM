@@ -1,0 +1,33 @@
+# ===================== SECRETS =====================
+.env
+.env.*
+!.env.example
+
+# ===================== PYTHON =====================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===================== NODE.JS =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===================== DATA / RUNTIME =====================
+*.log
+*.csv
+
+
+# ===================== OS =====================
+.DS_Store
+Thumbs.db
+
+# ===================== ML ARTIFACTS =====================
+*.h5
+*.model
+*.pkl
+
+

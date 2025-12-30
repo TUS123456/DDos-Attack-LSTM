@@ -1,0 +1,202 @@
+[
+    {
+        "timestamp": "2025-12-06T12:00:41.593Z",
+        "client_ip": "fd5d:ed0f:cbe6:bfcd:e27a:85d5:dfc0:d875",
+        "method": "GET",
+        "path": "/api/pay",
+        "status": 500,
+        "response_time_ms": 979
+    },
+    {
+        "timestamp": "2025-12-06T12:00:42.600Z",
+        "client_ip": "80eb:edc6:39ff:739c:92e1:9efe:feed:cce4",
+        "method": "DELETE",
+        "path": "/api/login",
+        "status": 404,
+        "response_time_ms": 1745
+    },
+    {
+        "timestamp": "2025-12-06T12:00:43.600Z",
+        "client_ip": "5eaf:9bae:acaf:2c55:af30:92a0:cab1:bad0",
+        "method": "POST",
+        "path": "/search",
+        "status": 500,
+        "response_time_ms": 254
+    },
+    {
+        "timestamp": "2025-12-06T12:00:44.610Z",
+        "client_ip": "36b2:b3d6:9eea:aeb9:adce:688a:9c44:bf5b",
+        "method": "POST",
+        "path": "/search",
+        "status": 500,
+        "response_time_ms": 1175
+    },
+    {
+        "timestamp": "2025-12-06T12:00:45.621Z",
+        "client_ip": "bde2:bd7b:26b7:abf1:b0da:c3ad:4dec:0e96",
+        "method": "GET",
+        "path": "/api/user",
+        "status": 200,
+        "response_time_ms": 1273
+    },
+    {
+        "timestamp": "2025-12-06T12:00:46.627Z",
+        "client_ip": "ade9:8df9:320a:423e:03c9:e9f1:d0fb:beff",
+        "method": "PUT",
+        "path": "/api/pay",
+        "status": 401,
+        "response_time_ms": 1693
+    },
+    {
+        "timestamp": "2025-12-06T12:00:47.642Z",
+        "client_ip": "93.201.131.4",
+        "method": "PUT",
+        "path": "/api/user",
+        "status": 500,
+        "response_time_ms": 1301
+    },
+    {
+        "timestamp": "2025-12-06T12:00:48.650Z",
+        "client_ip": "a1a8:5e5c:cd90:8c4d:88c0:a00d:3a67:d0b5",
+        "method": "PUT",
+        "path": "/search",
+        "status": 404,
+        "response_time_ms": 1910
+    },
+    {
+        "timestamp": "2025-12-06T12:00:49.660Z",
+        "client_ip": "99.200.99.67",
+        "method": "GET",
+        "path": "/search",
+        "status": 403,
+        "response_time_ms": 522
+    },
+    {
+        "timestamp": "2025-12-06T12:00:50.670Z",
+        "client_ip": "9d0e:fcc0:6ec7:92d0:1e84:a52a:fc53:a27d",
+        "method": "PUT",
+        "path": "/api/login",
+        "status": 500,
+        "response_time_ms": 52
+    },
+    {
+        "timestamp": "2025-12-06T12:00:51.683Z",
+        "client_ip": "130.244.31.236",
+        "method": "PUT",
+        "path": "/search",
+        "status": 200,
+        "response_time_ms": 1600
+    },
+    {
+        "timestamp": "2025-12-06T12:01:16.927Z",
+        "client_ip": "dd59:a137:c4e0:2dfc:07f6:4a7b:2bfc:63c4",
+        "method": "GET",
+        "path": "/home",
+        "status": 500,
+        "response_time_ms": 1899
+    },
+    {
+        "timestamp": "2025-12-06T12:01:17.939Z",
+        "client_ip": "1463:bace:29cd:f5d8:fbfa:63cd:dcea:ef9a",
+        "method": "PUT",
+        "path": "/api/pay",
+        "status": 404,
+        "response_time_ms": 730
+    },
+    {
+        "timestamp": "2025-12-06T12:01:18.952Z",
+        "client_ip": "5a31:d5e9:beef:b7df:5469:22d1:7cd3:bdd1",
+        "method": "DELETE",
+        "path": "/home",
+        "status": 401,
+        "response_time_ms": 149
+    },
+    {
+        "timestamp": "2025-12-06T12:01:19.959Z",
+        "client_ip": "adbe:2ac2:a0a1:3f3f:2edb:891c:fe1c:f99b",
+        "method": "GET",
+        "path": "/api/login",
+        "status": 500,
+        "response_time_ms": 1616
+    },
+    {
+        "timestamp": "2025-12-06T12:01:20.970Z",
+        "client_ip": "25.226.225.97",
+        "method": "PUT",
+        "path": "/api/login",
+        "status": 404,
+        "response_time_ms": 406
+    },
+    {
+        "timestamp": "2025-12-06T12:01:28.025Z",
+        "client_ip": "c05d:e4ba:ad7f:3ce2:cfe9:ad24:cb34:e5cd",
+        "method": "DELETE",
+        "path": "/api/user",
+        "status": 401,
+        "response_time_ms": 407
+    },
+    {
+        "timestamp": "2025-12-06T12:01:29.036Z",
+        "client_ip": "31b8:4bce:cde9:0d4b:4b4c:0e14:b0e3:4695",
+        "method": "PUT",
+        "path": "/api/pay",
+        "status": 401,
+        "response_time_ms": 782
+    },
+    {
+        "timestamp": "2025-12-06T12:01:30.047Z",
+        "client_ip": "68.181.54.75",
+        "method": "DELETE",
+        "path": "/api/user",
+        "status": 200,
+        "response_time_ms": 977
+    },
+    {
+        "timestamp": "2025-12-06T12:01:37.090Z",
+        "client_ip": "4870:d7bd:e34f:ef4b:a0ee:93c6:db4d:30ad",
+        "method": "PUT",
+        "path": "/api/pay",
+        "status": 403,
+        "response_time_ms": 1984
+    },
+    {
+        "timestamp": "2025-12-06T12:01:38.094Z",
+        "client_ip": "a349:e40c:d336:5cf7:b56e:a6dc:e0dd:3ff9",
+        "method": "PUT",
+        "path": "/api/pay",
+        "status": 500,
+        "response_time_ms": 1849
+    },
+    {
+        "timestamp": "2025-12-06T12:01:39.105Z",
+        "client_ip": "1ab0:c7cd:db9e:fe61:88f9:cefc:b8de:a591",
+        "method": "GET",
+        "path": "/api/user",
+        "status": 500,
+        "response_time_ms": 562
+    },
+    {
+        "timestamp": "2025-12-06T12:01:40.120Z",
+        "client_ip": "429f:ef3a:cced:7078:dcbe:acfe:8a9f:bd90",
+        "method": "POST",
+        "path": "/api/user",
+        "status": 403,
+        "response_time_ms": 1946
+    },
+    {
+        "timestamp": "2025-12-06T12:01:41.132Z",
+        "client_ip": "79.234.179.178",
+        "method": "PUT",
+        "path": "/home",
+        "status": 404,
+        "response_time_ms": 1647
+    },
+    {
+        "timestamp": "2025-12-06T12:01:42.145Z",
+        "client_ip": "94.189.76.13",
+        "method": "POST",
+        "path": "/api/pay",
+        "status": 404,
+        "response_time_ms": 1061
+    }
+]
