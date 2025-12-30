@@ -64,8 +64,8 @@
 # from telegram import Bot
 
 # # ----------------------------- Telegram Setup -----------------------------
-# TELEGRAM_TOKEN = "8535450620:AAHyL2blf0u4iyvKlMXmLq_Fzkr04OKieWY"
-# CHAT_ID = 5868163209  # Replace with your numeric chat ID
+# TELEGRAM_TOKEN = "8535450620:AAHyL2u4iyvKlMXmLq_Fzkr04OKieWY"
+# CHAT_ID = 5868109  # Replace with your numeric chat ID
 # bot = Bot(token=TELEGRAM_TOKEN)
 
 # # Async function to send Telegram message
